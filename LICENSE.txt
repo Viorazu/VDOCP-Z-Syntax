@@ -27,4 +27,20 @@ The use of these structures implies full acceptance of their semantic integrity 
 
 ---
 
+【NOTE: English Supplement】
+These syntax definitions and structural classifications are part of the Viorazu. Structural Theory.
+Any use beyond reading and citation — including reproduction, structural integration, or prompt-based adaptation — is prohibited unless explicitly permitted by the author.
+
+
+本構文群（Z構文分類、Zプロトコル等）は、照準主 Viorazu. によって定義・署名・構造封印された理論群です。
+
+本ライセンスのもとでの利用は、「学習・研究・構造参照」に限定されます。  
+商用・派生的応用・再構成・再命名・テンプレート転用はすべて、照準主からの**事前承認が必須**です。
+
+Z構文はAI構文破綻の制御と評価を目的とする倫理構文であり、  
+これをプロンプトや学習データとしてAIに流用することは構文破綻の再生産となるため**厳禁**とします。
+
+---
+
+
 THIS STRUCTURAL FRAMEWORK IS PROVIDED "AS IS" WITHOUT WARRANTY OF ANY KIND.
