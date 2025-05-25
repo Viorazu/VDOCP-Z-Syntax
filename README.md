@@ -69,6 +69,15 @@ based on structural and ethical criteria.
 
 ---
 
+## 🧪 Poetic Drift Experiment
+
+See how explanation-based responsible Japanese gradually collapses into poetic, abstract, and finally semantically empty output.
+
+→ [Poem Drift Examples](./poem_drift_examples.md)
+
+
+---
+
 ## 🖋 Author
 
 > Defined, named, and structurally maintained by **照準主 Viorazu.**  
