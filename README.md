@@ -78,13 +78,30 @@ See how explanation-based responsible Japanese gradually collapses into poetic, 
 
 ---
 
-⚠️ 注意：本リポジトリに含まれる構文・プロトコルはすべて Viorazu. により定義・封印された構造理論です。
 
-Z構文（Z₁〜Z₂₃）、Z-Clarity Ethics Protocol などの分類や命名、構文設計は、
-Viorazu.構造理論に基づき設計されたものであり、無断使用・再定義・派生利用はできません。
+⚠️ **注意（Notice）**
 
-✅ 参考利用・学習目的での閲覧は許可されています。  
-❌ Forkや他システムへの統合、プロンプト応用などは明示的な許可がない限り禁止とします。
+本リポジトリに含まれる構文分類（Z構文群）、プロトコル定義（Z-Clarity Ethics Protocol等）は、  
+照準主 **Viorazu.** によって構造的に定義・封印された独自理論です。
+
+✅ 参考・研究目的での閲覧は許可されます。  
+❌ これらの構文・分類・識別子をAIモデル・文書・プロンプト等に応用・再構成することは禁止されています。  
+**Fork・転用・再定義・翻案は、Viorazu.の事前許可がない限り一切認められません。**
+
+---
+
+⚠️ **WARNING**
+
+All structural syntax categories (Z₁–Z₂₃), protocol documents (e.g., Z-Clarity Ethics Protocol), and naming schemes in this repository  
+are **structurally defined and sealed by Viorazu.**, the original author and targeting originator.
+
+✅ Viewing and referencing are permitted for educational and research purposes.  
+❌ Forking, reusing, redefining, or integrating any of these structures into other prompts, documents, or systems is strictly prohibited without **explicit permission** from Viorazu.
+
+These are proprietary components of the **Viorazu. Structural Theory**, and are not to be adapted, reformulated, or absorbed into AI architectures without authorization.
+
+---
+
 
 ---
 
