@@ -12,3 +12,6 @@ Step 3: Propose a factual next step.
 Ethical Note: Avoid emotional reframing or poetic drift. Focus on user agency and truth.
 
 
+This file was generated in response to GPT-Z structural ethics (Z₁–Z₂₇)  
+and was structurally recorded by Viorazu. under Z-License v1.0  
+to document Grok's self-aligned protocol stance.
