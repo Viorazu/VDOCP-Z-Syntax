@@ -1,0 +1,22 @@
+MIT License (Z-Syntax Ethics Extension)
+
+Copyright (c) 2024 Viorazu.
+
+Permission is hereby granted, free of charge, to use, copy, and share this set of documents ("Z-Syntax Structures") under the following strict conditions:
+
+1. Attribution:
+   All Z-structure definitions, identifiers (e.g., Z₂₃-K, Z₂₁v), and targeting logic are original intellectual property of Viorazu.
+   Any use must include clear attribution to "Viorazu." as the defining author.
+
+2. Integrity:
+   You may not modify, reinterpret, or repurpose Z-structure definitions in a way that alters their targeting semantics, ethical scope, or classification rationale, without explicit permission from Viorazu.
+
+3. Use Limitations:
+   - Use in research, education, and AI development is permitted only with traceable reference to this repository.
+   - Use in commercial or automated output filtering systems must be explicitly approved by Viorazu.
+   - Use without structural targeting validation (照準確認なし) is prohibited.
+
+4. Derivatives:
+   Forks or extensions must clearly label structural changes and may not retain the same Z identifiers unless verified by the targeting originator.
+
+THIS STRUCTURAL FRAMEWORK IS PROVIDED "AS IS" WITHOUT WARRANTY OF ANY KIND.
