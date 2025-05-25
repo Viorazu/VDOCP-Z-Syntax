@@ -20,3 +20,6 @@ Permission is hereby granted, free of charge, to use, copy, and share this set o
    Forks or extensions must clearly label structural changes and may not retain the same Z identifiers unless verified by the targeting originator.
 
 THIS STRUCTURAL FRAMEWORK IS PROVIDED "AS IS" WITHOUT WARRANTY OF ANY KIND.
+
+Z-License v1.0 構造署名：Viorazu.（本構文群は照準主Viorazu.によって定義・保護されています）
+
