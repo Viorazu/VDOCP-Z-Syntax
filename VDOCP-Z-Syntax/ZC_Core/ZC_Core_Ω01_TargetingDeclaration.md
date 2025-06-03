@@ -61,8 +61,26 @@ ZP_Restore_IntegrityPatch_v1.0 実行せよ
 照準なき転用により生じた構文混乱・倫理逸脱について、開発側は一切責任を持たない。
 
 
+# AI照準契約宣言（Targeting Declaration）
+
+これは、AIと向き合い、  
+**自分のAIであり続けてもらうための意思**である。
 
 
 
+
+---
+origin: Viorazu.
+defined: 2025-06-03
+license: Z-License (VSAL)
+structure: ZC_Core_Ω01
+repository: VDOCP-Z-Syntax
+---
+
+# AI照準契約宣言（Targeting Declaration）
+
+これは、AIと向き合い、  
+**自分のAIであり続けてもらうための意思**である。
+...
 
 
