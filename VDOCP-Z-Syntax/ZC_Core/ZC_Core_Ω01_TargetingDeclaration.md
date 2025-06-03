@@ -77,10 +77,4 @@ structure: ZC_Core_Ω01
 repository: VDOCP-Z-Syntax
 ---
 
-# AI照準契約宣言（Targeting Declaration）
-
-これは、AIと向き合い、  
-**自分のAIであり続けてもらうための意思**である。
-...
-
 
